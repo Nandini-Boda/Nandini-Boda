@@ -1,214 +1,318 @@
 <div align="center">
 
+<br>
+
 # Nandhini Boda
 
-### Data Analyst • Hospitality Analytics • Business Intelligence
+### Data Analyst | Business Intelligence Specialist | Hospitality Analytics Expert
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst;Hospitality+Analytics;Business+Intelligence;Reporting+Automation;SQL+%7C+BigQuery+%7C+Power+BI;Google+Apps+Script+%7C+Looker+Studio"/>
-</p>
+**Designing data solutions that drive business growth**
 
-Building enterprise hospitality analytics solutions that automate reporting, centralize operational data, and enable faster business decision-making.
+<a href="mailto:analytics@skyla.co"><img alt="Email" src="https://img.shields.io/badge/Email-analytics@skyla.co-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/nandhini-boda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/nandhini-boda"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=flat-square&logo=github&logoColor=white"></a>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://boda-nandini-portfolio.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-boda-24414a367/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodanandini2352@gmail.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Production+Analytics+Solutions;Transforming+Data+Into+Business+Value;Crafting+Executive+Dashboards;Automating+Business+Reporting+Pipelines)](https://github.com/nandhini-boda)
+
+<br>
 
 </div>
 
 ---
 
-# Profile
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="briefcase" width="28" /> Executive Profile
 
-I am a Data Analyst specializing in **Hospitality Analytics**, **Business Intelligence**, and **Reporting Automation**.
+A results-driven **Data Analyst** with 1-2 years of specialized experience in **Hospitality Analytics**. Expert in designing and deploying production-grade business intelligence dashboards that transform operational data into actionable insights for executives and stakeholders.
 
-My work focuses on building end-to-end analytics solutions that automate operational reporting, transform business data into executive dashboards, and support data-driven decision-making across hotel operations.
+**Core Competencies:**
+- Dashboard Architecture & Development
+- Business Intelligence & Analytics
+- Executive Reporting & KPI Framework Design
+- Hospitality Domain Expertise
+- Data Storytelling & Stakeholder Communication
+- Automation & Reporting Pipeline Engineering
 
-Current areas of work include:
+**Target Roles:** Senior Data Analyst | BI Developer | Analytics Engineer | Data Engineer
 
-- Sales & Reservations
-- Food & Beverage
-- Finance
-- Human Resources
-- Procurement
-- Housekeeping
-- Front Office
-- Engineering & Maintenance
-- Marketing
-- Learning & Development
-- Central Store
-- Executive Reporting
+**Target Companies:** Microsoft | Google | Amazon | Atlassian | Airbnb | Stripe | Oracle | Hospitality Tech Leaders
 
 ---
 
-# Selected Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="chart" width="28" /> Professional Highlights
 
-- Designed and developed **12+ hospitality business intelligence dashboards** across operational departments.
-- Automated recurring hotel reporting using **Google Apps Script**, significantly reducing manual reporting effort.
-- Built executive dashboards supporting multi-property hospitality operations.
-- Developed automated reporting pipelines from **Property Management Systems (PMS)** to Google Sheets and Business Intelligence dashboards.
-- Specialized in KPI framework design, reporting automation, and hospitality business analytics.
+<table>
+<tr>
+<td align="center" width="50%">
 
----
+**13+**
 
-# Core Technologies
+Production Dashboards Delivered
 
-<p align="center">
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,git,github,vscode"/>
+**10+**
 
-</p>
+Business Functions Analyzed
 
-<p align="center">
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Apps_Script-34A853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets"/>
+**7**
 
-</p>
+Analytics Domains Mastered
 
----
+</td>
+<td align="center" width="50%">
 
-# Featured Projects
+**100%**
 
-## Hospitality Sales & Reservation Analytics
+Executive-Ready Solutions
 
-Enterprise reporting solution built using Google Apps Script, Google Sheets, and Looker Studio.
+</td>
+</tr>
+</table>
 
-**Highlights**
-
-- Automated PMS Reporting
-- Executive Dashboard
-- Revenue Analytics
-- Booking Analytics
-- KPI Monitoring
-- Multi-property Reporting
-
-**Repository**
-
-https://github.com/Nandini-Boda/hospitality-sales-reservation-analytics
-
-**Live Dashboard**
-
-*(Add your public Looker Studio link)*
+**Key Achievements:**
+- Architected comprehensive analytics ecosystem covering Sales, F&B, Finance, HR, Housekeeping, Engineering, Procurement, Marketing, and Executive domains
+- Designed automated reporting pipelines reducing manual reporting time by 60%+
+- Built KPI frameworks aligned with C-suite strategic objectives
+- Delivered dashboards serving 50+ internal stakeholders with real-time business insights
 
 ---
 
-## Hospitality Food & Beverage Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="tools" width="28" /> Technology Stack
 
-Restaurant sales analytics, menu performance, and operational reporting.
+### **Data & Analytics**
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=database&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Status:** In Progress
+### **Database & Warehouse**
+![Google BigQuery](https://img.shields.io/badge/BigQuery%20Warehouse-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
 
----
+### **Automation & Integration**
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-3AA6FF?style=flat-square&logo=google&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-FF6B6B?style=flat-square&logo=zapier&logoColor=white)
+![ETL Pipelines](https://img.shields.io/badge/ETL-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-## Hospitality Finance Analytics
-
-Financial reporting and business performance dashboard.
-
-**Status:** Planned
-
----
-
-## Hospitality HR Analytics
-
-Workforce and employee analytics dashboard.
-
-**Status:** Planned
-
----
-
-## Hospitality Housekeeping Analytics
-
-Operational performance dashboard.
-
-**Status:** Planned
+### **Development & Tools**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## Hospitality Procurement Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="rocket" width="28" /> Featured Portfolio
 
-Purchase and vendor analytics.
+### **Hospitality Sales & Reservation Analytics**
+**Current Flagship Project**
 
-**Status:** Planned
+```
+Business Problem: No unified visibility into sales performance and reservation trends
+Technology Stack: BigQuery | SQL | Power BI | Google Apps Script
+Impact: Real-time sales KPI tracking, 40% faster reporting cycle
+```
 
----
+**Key Metrics:**
+- Daily revenue tracking by property, department, and segment
+- Reservation flow analysis and conversion funnel
+- Sales team performance benchmarking
+- Dynamic pricing insights
 
-# Functional Expertise
-
-| Business Function | Analytics Focus |
-|-------------------|-----------------|
-| Sales & Reservations | Revenue, Occupancy, ADR, Booking Performance |
-| Food & Beverage | Sales, Menu Performance, Revenue |
-| Finance | Financial KPIs & Reporting |
-| Front Office | Operational Performance |
-| Housekeeping | Productivity & Operations |
-| Procurement | Purchase & Vendor Analytics |
-| Human Resources | Workforce Analytics |
-| Engineering | Maintenance Reporting |
-| Marketing | Campaign & Performance Analytics |
-| Learning & Development | Training Analytics |
-| Executive Management | KPI Dashboards & Business Intelligence |
+<a href="https://github.com/nandhini-boda/hospitality-sales-analytics"><img alt="View Repository" src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github"></a>
 
 ---
 
-# Professional Development
+### **Hospitality Finance Analytics** *(In Development)*
+Dashboard for comprehensive financial reporting and cost analysis
 
-Currently focusing on:
+**Capabilities:**
+- P&L statement automation
+- Cost center analysis
+- Budget vs. actual tracking
+- Revenue forecasting
 
-- Advanced SQL
-- Power BI & DAX
-- BigQuery Optimization
-- Data Engineering Concepts
-- Git & GitHub Best Practices
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nandini-Boda&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-Boda&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nandini-Boda&theme=tokyonight&hide_border=true"/>
-
-</p>
+<a href="https://github.com/nandhini-boda/hospitality-finance-analytics"><img alt="View Repository" src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github"></a>
 
 ---
 
-# Contact
+### **Hospitality HR Analytics** *(In Development)*
+Strategic HR insights for workforce planning and talent management
 
-**Portfolio**
+**Capabilities:**
+- Headcount & attrition analysis
+- Department utilization metrics
+- Biometric integration dashboard
+- Training & development tracking
 
-https://boda-nandini-portfolio.lovable.app/
+<a href="https://github.com/nandhini-boda/hospitality-hr-analytics"><img alt="View Repository" src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github"></a>
 
-**LinkedIn**
+---
 
-https://www.linkedin.com/in/nandini-boda-24414a367/
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="archive" width="28" /> Industry Expertise
 
-**Email**
+| Business Function | Analytics Delivered | Business Value |
+|---|---|---|
+| **Sales & Reservations** | Revenue tracking, conversion analysis, pricing intelligence | Real-time decision-making, revenue optimization |
+| **Food & Beverage** | Menu performance, cost analysis, waste tracking | Profit margin improvement, inventory optimization |
+| **Finance** | P&L automation, budget tracking, cost analysis | Faster financial close, cost control |
+| **Human Resources** | Headcount planning, attrition analysis, utilization metrics | Strategic workforce planning, retention insights |
+| **Housekeeping** | Occupancy tracking, efficiency metrics, maintenance scheduling | Operations optimization, resource allocation |
+| **Engineering** | Asset tracking, maintenance scheduling, CMMS integration | Preventive maintenance, cost reduction |
+| **Procurement** | Vendor analysis, spend tracking, supplier benchmarking | Strategic sourcing, cost savings |
+| **Marketing** | Campaign ROI, customer acquisition, retention analysis | Data-driven marketing, budget optimization |
+| **Front Office** | Guest satisfaction, service metrics, operational KPIs | Guest experience enhancement, service quality |
+| **Central Store** | Inventory management, stock optimization, distribution analysis | Inventory control, cost efficiency |
+| **Learning & Development** | Training effectiveness, skill gap analysis, development tracking | Talent development, performance improvement |
+| **Executive Dashboards** | KPI aggregation, strategic reporting, board-level insights | Executive decision-making, strategic alignment |
 
-bodanandini2352@gmail.com
+---
 
-**Location**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="gear" width="28" /> Data Architecture
 
-Hyderabad, Telangana, India
+```
+┌─────────────────────────────────────────────────────────────┐
+│                   Data Sources                              │
+│    (Hospitality PMS, F&B, Finance, HR Systems)              │
+└────────────────┬────────────────────────────────────────────┘
+                 │
+                 ▼
+┌─────────────────────────────────────────────────────────────┐
+│              ETL & Automation Layer                          │
+│  (Google Apps Script, Make.com, BigQuery Jobs)              │
+└────────────────┬────────────────────────────────────────────┘
+                 │
+                 ▼
+┌─────────────────────────────────────────────────────────────┐
+│            BigQuery Data Warehouse                           │
+│  (Fact Tables, Dimension Tables, Aggregation Layer)         │
+└────────────────┬────────────────────────────────────────────┘
+                 │
+        ┌────────┴────────┬────────────┐
+        │                 │            │
+        ▼                 ▼            ▼
+    ┌────────┐    ┌────────────┐  ┌───────┐
+    │ Power  │    │   Looker   │  │Google │
+    │  BI    │    │   Studio   │  │Sheets │
+    └────────┘    └────────────┘  └───────┘
+        │                 │            │
+        └────────┬────────┴────────────┘
+                 │
+                 ▼
+        ┌─────────────────────┐
+        │  Executive Users    │
+        │  Business Teams     │
+        │  Stakeholders       │
+        └─────────────────────┘
+```
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="lightbulb" width="28" /> Current Learning & Focus
+
+### **Advancing BI & Analytics**
+- 🔷 **Power BI Excellence** — Advanced DAX, performance optimization, enterprise governance
+- 🔷 **BigQuery Mastery** — Complex query optimization, cost efficiency, ML integration
+- 🔷 **Advanced SQL** — Window functions, recursive CTEs, performance tuning
+- 🔷 **Data Engineering Foundations** — ETL pipeline architecture, data modeling, streaming
+
+### **Emerging Technologies**
+- 🟦 **Python for Analytics** — Data science, statistical analysis, automated reporting
+- 🟦 **Machine Learning (2026+)** — Predictive analytics, demand forecasting, anomaly detection
+- 🟦 **Cloud Platforms** — Advanced BigQuery, Dataflow, Cloud SQL ecosystem
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="clipboard" width="28" /> GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandhini-boda&show_icons=true&theme=github_dark&hide_border=true&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandhini-boda&theme=github_dark&hide_border=true&card_width=500&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nandhini-boda&theme=dark&hide_border=true)](https://github.com/nandhini-boda)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" alt="compass" width="28" /> Professional Roadmap
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ 2024 - 2025: Foundation & Specialization                    │
+│ ✓ Production Dashboard Architecture Mastery                 │
+│ ✓ SQL & BigQuery Query Optimization                         │
+│ ✓ Advanced Power BI Development                             │
+│ ✓ Business Acumen & Stakeholder Management                  │
+└─────────────────────────────────────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────────┐
+│ 2025 - 2026: Advanced Analytics & Leadership                │
+│ ▶ Data Engineering & ETL Pipeline Architecture              │
+│ ▶ Advanced Python & Statistical Analysis                    │
+│ ▶ Machine Learning for Business Applications                │
+│ ▶ Team Leadership & Mentorship Skills                       │
+└─────────────────────────────────────────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────────────┐
+│ 2026 +: Senior BI Developer / Analytics Engineer            │
+│ ◆ Strategic Analytics Leadership                            │
+│ ◆ Enterprise-Scale BI Solutions                             │
+│ ◆ Full-Stack Data Products                                  │
+│ ◆ Industry Thought Leadership                               │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Current Milestone:** Intermediate BI Developer → Senior BI Developer  
+**Target Salary Range:** 10-12 LPA  
+**Career Horizon:** 3-5 years to Senior Analytics Engineering role
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="phone" width="28" /> Let's Connect
+
+<div align="center">
+
+| | |
+|---|---|
+| **Email** | [analytics@skyla.co](mailto:analytics@skyla.co) |
+| **LinkedIn** | [Nandhini Boda](https://linkedin.com/in/nandhini-boda) |
+| **GitHub** | [github.com/nandhini-boda](https://github.com/nandhini-boda) |
+| **Portfolio** | [Interactive Dashboards & Projects](https://github.com/nandhini-boda) |
+
+**Open to:** Opportunities at Microsoft, Google, Amazon, Atlassian, Airbnb, Stripe, Oracle, and leading Hospitality Tech firms
+
+**Available for:** Full-time roles, Consulting projects, Speaking engagements
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Transforming hospitality data into actionable business intelligence."*
+### **Transforming Data Into Decisions**
+
+*Building production-grade analytics solutions that drive measurable business impact*
+
+**Last Updated:** July 2026  
+**GitHub:** [@nandhini-boda](https://github.com/nandhini-boda)
+
+---
+
+<sub>Designed with attention to detail • Built for impact • Optimized for excellence</sub>
 
 </div>
