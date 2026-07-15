@@ -8,13 +8,13 @@
 
 **Designing data solutions that drive business growth**
 
-<a href="mailto:bodanandini2352@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bodanandini2352@gmail.com"><-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/nandhini-boda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/nandhini-boda"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=flat-square&logo=github&logoColor=white"></a>
+<a href="mailto:bodanandini2352@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bodanandini2352@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="http://linkedin.com/in/nandini-boda-24414a367"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Nandini-Boda"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=flat-square&logo=github&logoColor=white"></a>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Production+Analytics+Solutions;Transforming+Data+Into+Business+Value;Crafting+Executive+Dashboards;Automating+Business+Reporting+Pipelines)](https://github.com/nandhini-boda)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Production+Analytics+Solutions;Transforming+Data+Into+Business+Value;Crafting+Executive+Dashboards;Automating+Business+Reporting+Pipelines)](https://github.com/Nandini-Boda)
 
 <br>
 
@@ -149,7 +149,7 @@ Real-time revenue tracking • 40% faster reporting cycle • Executive dashboar
 **Capabilities**  
 Daily revenue tracking by property, department, and segment • Reservation flow analysis • Sales team performance benchmarking • Dynamic pricing intelligence
 
-<a href="https://github.com/nandhini-boda/hospitality-sales-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a> <a href="#"><img alt="Dashboard" src="https://img.shields.io/badge/Live%20Dashboard-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"></a> <a href="#"><img alt="Docs" src="https://img.shields.io/badge/Documentation-Read-0A66C2?style=flat-square&logo=readthedocs"></a>
+<a href="https://github.com/Nandini-Boda/hospitality-sales-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a> <a href="http://boda-nandini-portfolio.lovable.app/"><img alt="Portfolio" src="https://img.shields.io/badge/View%20Portfolio-Website-F2C811?style=flat-square&logo=globe&logoColor=black"></a>
 
 ---
 
@@ -168,7 +168,7 @@ Faster financial close • Cost center visibility • Budget optimization • Fo
 **Capabilities**  
 P&L statement automation • Cost center analysis • Budget vs. actual tracking • Revenue forecasting • Multi-entity consolidation
 
-<a href="https://github.com/nandhini-boda/hospitality-finance-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a> <a href="#"><img alt="Dashboard" src="https://img.shields.io/badge/Coming%20Soon-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"></a>
+<a href="https://github.com/Nandini-Boda/hospitality-finance-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a> <a href="#"><img alt="Dashboard" src="https://img.shields.io/badge/Coming%20Soon-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"></a>
 
 ---
 
@@ -187,7 +187,7 @@ Strategic workforce planning • Retention insights • Attrition prediction •
 **Capabilities**  
 Headcount & attrition analysis • Department utilization metrics • Biometric integration dashboard • Training & development tracking • Performance metrics
 
-<a href="https://github.com/nandhini-boda/hospitality-hr-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a>
+<a href="https://github.com/Nandini-Boda/hospitality-hr-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a>
 
 </div>
 
@@ -280,23 +280,23 @@ Headcount & attrition analysis • Department utilization metrics • Biometric 
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nandhini-boda.nandhini-boda)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nandini-Boda.Nandini-Boda)
 
 ### Recent Activity & Contributions
 
-<a href="https://github.com/nandhini-boda">
+<a href="https://github.com/Nandini-Boda">
   <img alt="Contributions" src="https://img.shields.io/badge/Contributions-Data%20Analytics-0A66C2?style=flat-square">
 </a>
 
-<a href="https://github.com/nandhini-boda?tab=repositories">
+<a href="https://github.com/Nandini-Boda?tab=repositories">
   <img alt="Repositories" src="https://img.shields.io/badge/Repositories-13%2B-10B981?style=flat-square">
 </a>
 
-<a href="https://github.com/nandhini-boda">
+<a href="https://github.com/Nandini-Boda">
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Business%20Intelligence-F2C811?style=flat-square">
 </a>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nandhini-boda&theme=dark&no-frame=true&row=1&column=3)](https://github.com/nandhini-boda)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nandini-Boda&theme=dark&no-frame=true&row=1&column=3)](https://github.com/Nandini-Boda)
 
 </div>
 
@@ -308,9 +308,9 @@ Headcount & attrition analysis • Department utilization metrics • Biometric 
 
 | | |
 |---|---|
-| [📧 Email](mailto:analytics@skyla.co) **analytics@skyla.co** | [💼 LinkedIn](https://linkedin.com/in/nandhini-boda) **Connect with me** |
-| [🌐 GitHub](https://github.com/nandhini-boda) **View Repositories** | [📂 Portfolio](https://github.com/nandhini-boda) **Data Projects** |
-| [📍 Location](https://www.google.com/maps/search/Hyderabad) **Hyderabad, India** | [🎯 Status](https://github.com/nandhini-boda) **Open to Opportunities** |
+| [📧 Email](mailto:bodanandini2352@gmail.com) **bodanandini2352@gmail.com** | [💼 LinkedIn](http://linkedin.com/in/nandini-boda-24414a367) **Connect with me** |
+| [🌐 GitHub](https://github.com/Nandini-Boda) **View Repositories** | [📂 Portfolio](http://boda-nandini-portfolio.lovable.app/) **View Website** |
+| [📍 Location](https://www.google.com/maps/search/Hyderabad) **Hyderabad, India** | [🎯 Status](https://github.com/Nandini-Boda) **Open to Opportunities** |
 
 </div>
 
