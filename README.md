@@ -1,1 +1,137 @@
 
+<div align="center">
+
+# 👋 Hi, I'm Nandhini Boda
+
+### Hospitality Data Analyst | Business Intelligence Developer | Data Automation Enthusiast
+
+Building automated reporting solutions, executive dashboards, and hospitality analytics using SQL, Google Apps Script, BigQuery, Power BI, Looker Studio, and Google Sheets.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://boda-nandini-portfolio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-boda-24414a367/)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:bodanandini2352@gmail.com)
+
+</div>
+
+---
+
+# 👩 About Me
+
+I'm a Data Analyst specializing in the Hospitality industry.
+
+I design automated reporting solutions that help hotel management monitor operations, revenue, reservations, finance, HR, procurement, housekeeping, engineering, marketing, and F&B performance.
+
+Currently working on enterprise reporting solutions for multiple hotel properties with end-to-end automation.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏨 Hospitality Sales & Reservation Analytics | Automated PMS reporting solution using Google Apps Script, Google Sheets & Looker Studio |
+| 🍽 Hospitality F&B Analytics | Restaurant KPI Dashboard with automated reporting |
+| 👥 HR Analytics Dashboard | Employee analytics, attendance and workforce insights |
+| 💰 Finance Dashboard | Revenue, expenses and financial performance reporting |
+| 📦 Procurement Analytics | Purchase analysis and vendor performance dashboard |
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+- SQL
+- Google Apps Script
+- JavaScript
+- Python (Basics)
+
+### Databases
+
+- Google BigQuery
+- Google Sheets
+
+### Business Intelligence
+
+- Power BI
+- Looker Studio
+
+### Automation
+
+- Google Apps Script
+- Make.com
+- ETL Automation
+- Workflow Automation
+
+### Other
+
+- GitHub
+- Excel
+- DBeaver
+
+---
+
+# 📊 Hospitality Domains
+
+✅ Sales & Reservations
+
+✅ Front Office
+
+✅ Food & Beverage
+
+✅ Finance
+
+✅ Procurement
+
+✅ Housekeeping
+
+✅ HR
+
+✅ Branding & Marketing
+
+✅ Engineering
+
+✅ Central Store
+
+✅ Learning & Development
+
+✅ Biometric Analytics
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- DAX
+- BigQuery Optimization
+- Data Engineering
+- Git & GitHub
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+**bodanandini2352@gmail.com**
+
+📍 Hyderabad, Telangana
+
+🌐 Portfolio
+
+https://boda-nandini-portfolio.lovable.app/
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/nandini-boda-24414a367/
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+</div>
