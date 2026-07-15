@@ -8,7 +8,7 @@
 
 **Designing data solutions that drive business growth**
 
-<a href="mailto:analytics@skyla.co"><img alt="Email" src="https://img.shields.io/badge/Email-analytics@skyla.co-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="mailto:bodanandini2352@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bodanandini2352@gmail.com"><-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/nandhini-boda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/nandhini-boda"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=flat-square&logo=github&logoColor=white"></a>
 
