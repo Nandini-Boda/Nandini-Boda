@@ -8,7 +8,7 @@
 
 ### Hospitality Data Analyst | Business Intelligence Developer | Data Automation Enthusiast
 
-Building automated reporting solutions, executive dashboards, and hospitality analytics using SQL, Google Apps Script, BigQuery, Power BI, Looker Studio, and Google Sheets.
+Building enterprise hospitality analytics solutions that automate reporting, centralize operational data, and enable faster management decision-making across hotel operations.
 
 <br>
 
