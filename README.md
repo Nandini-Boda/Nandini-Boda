@@ -42,6 +42,42 @@ Building enterprise hospitality analytics solutions that automate reporting, cen
 
 ---
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nandini-Boda&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-Boda&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nandini-Boda&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🚀 Professional Highlights
+
+- 🏨 Built **12+ hospitality business dashboards** covering Sales, Reservations, F&B, Finance, HR, Housekeeping, Procurement, Engineering, Marketing, Central Store, Learning & Development, and Biometric Analytics.
+
+- ⚡ Automated hotel reporting workflows using **Google Apps Script**, eliminating manual reporting and improving reporting efficiency.
+
+- 📊 Designed executive dashboards that enable management to monitor KPIs across multiple hotel properties.
+
+- 🗄️ Developed automated data pipelines from **Property Management Systems (PMS)** into Google Sheets and Business Intelligence dashboards.
+
+- 📈 Specialized in Hospitality Analytics, KPI Reporting, Business Intelligence, and Dashboard Development.
+
+- 🎯 Passionate about transforming operational data into actionable business insights.
+
+
+---
 # 👩 About Me
 
 I'm a Data Analyst specializing in the Hospitality industry.
@@ -52,17 +88,71 @@ Currently working on enterprise reporting solutions for multiple hotel propertie
 
 ---
 
-# 🚀 Featured Projects
+---
 
-| Project | Description |
-|---------|-------------|
-| 🏨 Hospitality Sales & Reservation Analytics | Automated PMS reporting solution using Google Apps Script, Google Sheets & Looker Studio |
-| 🍽 Hospitality F&B Analytics | Restaurant KPI Dashboard with automated reporting |
-| 👥 HR Analytics Dashboard | Employee analytics, attendance and workforce insights |
-| 💰 Finance Dashboard | Revenue, expenses and financial performance reporting |
-| 📦 Procurement Analytics | Purchase analysis and vendor performance dashboard |
+# 🏆 Featured Portfolio
+
+## 🏨 Hospitality Sales & Reservation Analytics
+
+**Enterprise Hospitality Analytics Solution**
+
+✔ Automated PMS Reporting
+
+✔ Executive Dashboard
+
+✔ Google Apps Script Automation
+
+✔ Google Sheets Database
+
+✔ Looker Studio Dashboard
+
+🔗 Repository
+
+https://github.com/Nandini-Boda/hospitality-sales-reservation-analytics
+
+🌐 Live Dashboard
+
+(Add your Looker Studio public link here)
 
 ---
+
+## 🍽 Hospitality F&B Analytics
+
+**Restaurant Performance & Revenue Analytics**
+
+🚧 Currently Building
+
+---
+
+## 💰 Hospitality Finance Analytics
+
+**Financial Performance Dashboard**
+
+🚧 Coming Soon
+
+---
+
+## 👥 Hospitality HR Analytics
+
+**Employee & Workforce Analytics**
+
+🚧 Coming Soon
+
+---
+
+## 🛏 Hospitality Housekeeping Analytics
+
+**Operations & Room Performance**
+
+🚧 Coming Soon
+
+---
+
+## 📦 Hospitality Procurement Analytics
+
+**Vendor & Purchase Analytics**
+
+🚧 Coming Soon
 
 # 🛠 Tech Stack
 
