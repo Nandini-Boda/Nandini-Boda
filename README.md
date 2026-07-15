@@ -1,45 +1,59 @@
 <div align="center">
 
-# 👋 Hi, I'm Nandhini Boda
+# Nandhini Boda
+
+### Data Analyst • Hospitality Analytics • Business Intelligence
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hospitality+Data+Analyst;Business+Intelligence+Developer;Data+Automation+Engineer;SQL+%7C+BigQuery+%7C+Power+BI;Building+Enterprise+Analytics+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Data+Analyst;Hospitality+Analytics;Business+Intelligence;Reporting+Automation;SQL+%7C+BigQuery+%7C+Power+BI;Google+Apps+Script+%7C+Looker+Studio"/>
 </p>
 
-### Hospitality Data Analyst | Business Intelligence Developer | Data Automation Enthusiast
-
-Building enterprise hospitality analytics solutions that automate reporting, centralize operational data, and enable faster management decision-making across hotel operations.
+Building enterprise hospitality analytics solutions that automate reporting, centralize operational data, and enable faster business decision-making.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://boda-nandini-portfolio.lovable.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-boda-24414a367/)
-[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:bodanandini2352@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](https://boda-nandini-portfolio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandini-boda-24414a367/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodanandini2352@gmail.com)
 
 </div>
 
 ---
 
-# 👩 About Me
+# Profile
 
-I'm a **Hospitality Data Analyst** passionate about transforming operational data into meaningful business insights.
+I am a Data Analyst specializing in **Hospitality Analytics**, **Business Intelligence**, and **Reporting Automation**.
 
-I build automated reporting solutions that help hotel management monitor revenue, reservations, finance, F&B, HR, procurement, housekeeping, engineering, marketing, and operations through interactive dashboards and business intelligence solutions.
+My work focuses on building end-to-end analytics solutions that automate operational reporting, transform business data into executive dashboards, and support data-driven decision-making across hotel operations.
+
+Current areas of work include:
+
+- Sales & Reservations
+- Food & Beverage
+- Finance
+- Human Resources
+- Procurement
+- Housekeeping
+- Front Office
+- Engineering & Maintenance
+- Marketing
+- Learning & Development
+- Central Store
+- Executive Reporting
 
 ---
 
-# 🚀 Professional Highlights
+# Selected Achievements
 
-- 🏨 Built **12+ hospitality analytics dashboards** across multiple business departments.
-- ⚡ Automated hotel reporting using **Google Apps Script**.
-- 📊 Developed executive dashboards for multi-property hotel operations.
-- 🗄️ Designed automated PMS → Google Sheets → BI reporting pipelines.
-- 📈 Specialized in Hospitality Analytics, KPI Reporting, Dashboard Development, and Business Intelligence.
-- 🎯 Focused on delivering analytics that support faster business decision-making.
+- Designed and developed **12+ hospitality business intelligence dashboards** across operational departments.
+- Automated recurring hotel reporting using **Google Apps Script**, significantly reducing manual reporting effort.
+- Built executive dashboards supporting multi-property hospitality operations.
+- Developed automated reporting pipelines from **Property Management Systems (PMS)** to Google Sheets and Business Intelligence dashboards.
+- Specialized in KPI framework design, reporting automation, and hospitality business analytics.
 
 ---
 
-# 🛠 Tech Stack
+# Core Technologies
 
 <p align="center">
 
@@ -60,7 +74,102 @@ I build automated reporting solutions that help hotel management monitor revenue
 
 ---
 
-# 📊 GitHub Analytics
+# Featured Projects
+
+## Hospitality Sales & Reservation Analytics
+
+Enterprise reporting solution built using Google Apps Script, Google Sheets, and Looker Studio.
+
+**Highlights**
+
+- Automated PMS Reporting
+- Executive Dashboard
+- Revenue Analytics
+- Booking Analytics
+- KPI Monitoring
+- Multi-property Reporting
+
+**Repository**
+
+https://github.com/Nandini-Boda/hospitality-sales-reservation-analytics
+
+**Live Dashboard**
+
+*(Add your public Looker Studio link)*
+
+---
+
+## Hospitality Food & Beverage Analytics
+
+Restaurant sales analytics, menu performance, and operational reporting.
+
+**Status:** In Progress
+
+---
+
+## Hospitality Finance Analytics
+
+Financial reporting and business performance dashboard.
+
+**Status:** Planned
+
+---
+
+## Hospitality HR Analytics
+
+Workforce and employee analytics dashboard.
+
+**Status:** Planned
+
+---
+
+## Hospitality Housekeeping Analytics
+
+Operational performance dashboard.
+
+**Status:** Planned
+
+---
+
+## Hospitality Procurement Analytics
+
+Purchase and vendor analytics.
+
+**Status:** Planned
+
+---
+
+# Functional Expertise
+
+| Business Function | Analytics Focus |
+|-------------------|-----------------|
+| Sales & Reservations | Revenue, Occupancy, ADR, Booking Performance |
+| Food & Beverage | Sales, Menu Performance, Revenue |
+| Finance | Financial KPIs & Reporting |
+| Front Office | Operational Performance |
+| Housekeeping | Productivity & Operations |
+| Procurement | Purchase & Vendor Analytics |
+| Human Resources | Workforce Analytics |
+| Engineering | Maintenance Reporting |
+| Marketing | Campaign & Performance Analytics |
+| Learning & Development | Training Analytics |
+| Executive Management | KPI Dashboards & Business Intelligence |
+
+---
+
+# Professional Development
+
+Currently focusing on:
+
+- Advanced SQL
+- Power BI & DAX
+- BigQuery Optimization
+- Data Engineering Concepts
+- Git & GitHub Best Practices
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
@@ -78,121 +187,28 @@ I build automated reporting solutions that help hotel management monitor revenue
 
 ---
 
-# 🏆 Featured Portfolio
+# Contact
 
-### 🏨 Hospitality Sales & Reservation Analytics
-
-✔ PMS Reporting Automation
-
-✔ Executive Dashboard
-
-✔ Google Apps Script
-
-✔ Google Sheets
-
-✔ Looker Studio
-
-🔗 Repository
-
-https://github.com/Nandini-Boda/hospitality-sales-reservation-analytics
-
-🌐 Live Dashboard
-
-(Add your public Looker Studio link)
-
----
-
-### 🍽 Hospitality F&B Analytics
-
-🚧 Currently Building
-
----
-
-### 💰 Hospitality Finance Analytics
-
-🚧 Coming Soon
-
----
-
-### 👥 Hospitality HR Analytics
-
-🚧 Coming Soon
-
----
-
-### 🛏 Hospitality Housekeeping Analytics
-
-🚧 Coming Soon
-
----
-
-### 📦 Hospitality Procurement Analytics
-
-🚧 Coming Soon
-
----
-
-# 🏨 Hospitality Expertise
-
-✅ Sales & Reservations
-
-✅ Front Office
-
-✅ Food & Beverage
-
-✅ Finance
-
-✅ Procurement
-
-✅ Housekeeping
-
-✅ Human Resources
-
-✅ Branding & Marketing
-
-✅ Engineering & Maintenance
-
-✅ Central Store
-
-✅ Learning & Development
-
-✅ Biometric Analytics
-
----
-
-# 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- DAX
-- BigQuery Performance Optimization
-- Data Engineering
-- Git & GitHub
-
----
-
-# 📫 Let's Connect
-
-📧 **Email**
-
-**bodanandini2352@gmail.com**
-
-🌍 **Portfolio**
+**Portfolio**
 
 https://boda-nandini-portfolio.lovable.app/
 
-💼 **LinkedIn**
+**LinkedIn**
 
 https://www.linkedin.com/in/nandini-boda-24414a367/
 
-📍 Hyderabad, Telangana
+**Email**
+
+bodanandini2352@gmail.com
+
+**Location**
+
+Hyderabad, Telangana, India
 
 ---
 
 <div align="center">
 
-⭐ Thanks for visiting my profile!
-
-Building Hospitality Analytics • One Dashboard at a Time
+*"Transforming hospitality data into actionable business intelligence."*
 
 </div>
