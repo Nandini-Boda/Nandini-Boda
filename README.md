@@ -1,9 +1,12 @@
-
 <div align="center">
+
+# 👋 Hi, I'm Nandhini Boda
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hospitality+Data+Analyst;Business+Intelligence+Developer;SQL+%7C+BigQuery+%7C+Power+BI;Google+Apps+Script+Automation;Building+Enterprise+Analytics+Solutions" />
 </p>
+
+### Hospitality Data Analyst | Business Intelligence Developer | Data Automation Enthusiast
 
 Building automated reporting solutions, executive dashboards, and hospitality analytics using SQL, Google Apps Script, BigQuery, Power BI, Looker Studio, and Google Sheets.
 
