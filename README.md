@@ -153,45 +153,8 @@ Daily revenue tracking by property, department, and segment • Reservation flow
 
 ---
 
-### Finance Analytics
-![In Development](https://img.shields.io/badge/Status-In%20Development-EAB308?style=flat-square) ![2026](https://img.shields.io/badge/Release-Q3%202026-0A66C2?style=flat-square)
 
-**Business Challenge**  
-Manual financial reporting across cost centers with delayed close processes
 
-**Technology Stack**  
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=database&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**Business Impact**  
-Faster financial close • Cost center visibility • Budget optimization • Forecasting accuracy
-
-**Capabilities**  
-P&L statement automation • Cost center analysis • Budget vs. actual tracking • Revenue forecasting • Multi-entity consolidation
-
-<a href="https://github.com/Nandini-Boda/hospitality-finance-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a> <a href="#"><img alt="Dashboard" src="https://img.shields.io/badge/Coming%20Soon-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"></a>
-
----
-
-### HR Analytics
-![In Development](https://img.shields.io/badge/Status-In%20Development-EAB308?style=flat-square) ![2026](https://img.shields.io/badge/Release-Q4%202026-0A66C2?style=flat-square)
-
-**Business Challenge**  
-Limited workforce planning and talent analytics insights across departments
-
-**Technology Stack**  
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=database&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Business Impact**  
-Strategic workforce planning • Retention insights • Attrition prediction • Skills gap analysis
-
-**Capabilities**  
-Headcount & attrition analysis • Department utilization metrics • Biometric integration dashboard • Training & development tracking • Performance metrics
-
-<a href="https://github.com/Nandini-Boda/hospitality-hr-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a>
-
-</div>
-
----
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="archive" width="28" /> Industry Expertise
 
