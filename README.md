@@ -1,301 +1,139 @@
-<div align="center">
-
-<br>
-
 # Nandhini Boda
 
-### Data Analyst | Business Intelligence Specialist | Hospitality Analytics Expert
+**Data Analyst | Analytics Engineering | Business Intelligence**
 
-**Designing data solutions that drive business growth**
+Building analytics solutions across data pipelines, business intelligence, reporting automation, and AI-assisted analytics.
 
-<a href="mailto:bodanandini2352@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bodanandini2352@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="http://linkedin.com/in/nandini-boda-24414a367"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Nandini-Boda"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=flat-square&logo=github&logoColor=white"></a>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+Production+Analytics+Solutions;Transforming+Data+Into+Business+Value;Crafting+Executive+Dashboards;Automating+Business+Reporting+Pipelines)](https://github.com/Nandini-Boda)
-
-<br>
-
-</div>
+[Portfolio](https://boda-nandini-portfolio.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/nandini-boda-24414a367/) · [Email](mailto:bodanandini2352@gmail.com)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="briefcase" width="28" /> Executive Profile
+## About
 
-A results-driven **Data Analyst** with 1-2 years of specialized experience in **Hospitality Analytics**. Expert in designing and deploying production-grade business intelligence dashboards that transform operational data into actionable insights for executives and stakeholders.
+I am a Data Analyst at Skyla Hospitality with approximately 1.5 years of hands-on experience across data analytics, business intelligence, analytics engineering, and reporting automation.
 
-**Core Competencies:**
-- Dashboard Architecture & Development
-- Business Intelligence & Analytics
-- Executive Reporting & KPI Framework Design
-- Hospitality Domain Expertise
-- Data Storytelling & Stakeholder Communication
-- Automation & Reporting Pipeline Engineering
+My work spans the analytics lifecycle — from data extraction and ETL/ELT to SQL transformations, BigQuery data modelling, KPI development, dashboard development, and automated reporting.
 
-**Target Roles:** Senior Data Analyst | BI Developer | Analytics Engineer | Data Engineer
-
-**Target Companies:** Microsoft | Google | Amazon | Atlassian | Airbnb | Stripe | Oracle | Hospitality Tech Leaders
+I also use Generative AI, prompt engineering, and AI-assisted development to accelerate dashboard development, analytics workflows, and business automation.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="chart" width="28" /> Professional Highlights
+## Professional Highlights
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+### Analytics Engineering
+ETL/ELT, SQL transformations, BigQuery, data modelling, data validation, and analytics workflows.
 
-### 🚀 IMPACT
-**13+**  
-Production Dashboards
+### Business Intelligence
+Power BI, Looker Studio, KPI development, dashboard development, and business reporting.
 
-</td>
-<td width="50%">
+### Reporting & Automation
+Google Apps Script, Google Sheets, Make.com, scheduled workflows, and automated reporting.
 
-### ⚡ AUTOMATION
-**60%**  
-Manual Reporting Reduced
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 ANALYTICS
-**12+**  
-Business Functions
-
-</td>
-<td width="50%">
-
-### 🏨 INDUSTRY
-**Enterprise**  
-Hospitality Scale
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👥 STAKEHOLDERS
-**50+**  
-Power Users Served
-
-</td>
-<td width="50%">
-
-### ✅ DELIVERY
-**100%**  
-Executive-Ready
-
-</td>
-</tr>
-</table>
-</div>
-
-**Key Achievements:**
-- Architected comprehensive analytics ecosystem covering Sales, F&B, Finance, HR, Housekeeping, Engineering, Procurement, Marketing, and Executive domains
-- Designed automated reporting pipelines reducing manual reporting time by 60%+
-- Built KPI frameworks aligned with C-suite strategic objectives
-- Delivered dashboards serving 50+ internal stakeholders with real-time business insights
+### AI-Assisted Analytics
+Generative AI, prompt engineering, AI-assisted development, dashboard prototyping, and automated insight workflows.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="tools" width="28" /> Technology Stack
+## Technical Skills
 
-### **Data & Analytics**
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=database&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+**Data & Analytics**
+`SQL` `Google BigQuery` `ETL/ELT` `Data Transformation` `Data Modelling` `Data Validation` `Data Warehousing` `Advanced Excel` `DBeaver`
 
-### **Database & Warehouse**
-![Google BigQuery](https://img.shields.io/badge/BigQuery%20Warehouse-669DF6?style=flat-square&logo=google-cloud&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)
+**Business Intelligence**
+`Power BI` `DAX` `Looker Studio` `KPI Design` `Dashboard Development` `Data Visualization` `Executive Reporting`
 
-### **Automation & Integration**
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-3AA6FF?style=flat-square&logo=google&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-FF6B6B?style=flat-square&logo=zapier&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+**Automation**
+`Google Apps Script` `Google Sheets` `Make.com` `Scheduled Pipelines` `Trigger-Based Automation` `Email Automation` `Workflow Automation`
 
-### **Development & Tools**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+**AI & Modern Analytics**
+`Generative AI` `Prompt Engineering` `AI-Assisted Development` `AI-Powered Dashboard Development` `Automated Insight Generation`
+
+**Programming & Development**
+`Python for Analytics` `JavaScript` `Git` `GitHub`
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="rocket" width="28" /> Featured Portfolio
+## Featured Projects
 
-<div align="center">
+### F&B Analytics Platform
+
+An end-to-end analytics and reporting platform built around the following architecture:
+
+`eZee POS → Google Apps Script → BigQuery → SQL Transformations → Power BI / Looker Studio`
+
+The project covers:
+- Automated data ingestion
+- BigQuery data warehousing
+- SQL transformations
+- Data validation
+- KPI development
+- Dashboard development
+- Reporting automation
+- AI-assisted dashboard and application development
+
+**Tech:** `Google BigQuery` `SQL` `Google Apps Script` `Power BI` `Looker Studio` `Google Sheets` `ETL/ELT` `Lovable` `Claude` `Generative AI`
 
 ### Sales & Reservation Analytics
-![Production](https://img.shields.io/badge/Status-Production-10B981?style=flat-square) ![Updated](https://img.shields.io/badge/Last%20Update-Jul%202026-0A66C2?style=flat-square)
 
-**Business Challenge**  
-No unified visibility into sales performance and reservation trends across properties
+An analytics solution focused on bringing sales and reservation data into structured reporting workflows to improve visibility into business performance and reservation trends.
 
-**Technology Stack**  
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=database&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Google Apps Script](https://img.shields.io/badge/GAS-3AA6FF?style=flat-square&logo=google&logoColor=white)
+Includes sales analysis, reservation analysis, KPI reporting, dashboard development, and structured business performance reporting.
 
-**Business Impact**  
-Real-time revenue tracking • 40% faster reporting cycle • Executive dashboards • Dynamic pricing insights
+**Tech:** `SQL` `Google BigQuery` `Power BI` `Looker Studio` `Google Apps Script`
 
-**Capabilities**  
-Daily revenue tracking by property, department, and segment • Reservation flow analysis • Sales team performance benchmarking • Dynamic pricing intelligence
+### Google Review Automation
 
-<a href="https://github.com/Nandini-Boda/hospitality-sales-analytics"><img alt="Repository" src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=flat-square&logo=github"></a> <a href="http://boda-nandini-portfolio.lovable.app/"><img alt="Portfolio" src="https://img.shields.io/badge/View%20Portfolio-Website-F2C811?style=flat-square&logo=globe&logoColor=black"></a>
+An automated customer-review workflow using Make.com and Google Business Profile, with conditional logic for processing and publishing review responses.
+
+**Tech:** `Make.com` `Google Business Profile` `Workflow Automation`
 
 ---
 
+## AI-Assisted Analytics & Automation
 
+I use Generative AI and AI-assisted development as part of my analytics workflow, particularly for dashboard development, application prototyping, reporting automation, workflow design, and analytics productivity.
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="archive" width="28" /> Industry Expertise
-
-<div align="center">
-
-| | |
-|---|---|
-| **🏨 Sales & Reservations** Revenue tracking • Booking funnel • Pricing intelligence • Executive KPIs | **🍽️ Food & Beverage** Menu performance • Recipe costing • Waste analysis • Inventory optimization |
-| **💰 Finance** P&L automation • Budget tracking • Cost analysis • Forecasting | **👥 Human Resources** Headcount planning • Attrition analysis • Utilization metrics • Skills gap |
-| **🧹 Housekeeping** Occupancy tracking • Efficiency metrics • Maintenance scheduling • Resource planning | **⚙️ Engineering** Asset tracking • Maintenance schedules • CMMS integration • Cost optimization |
-| **📦 Procurement** Vendor analysis • Spend tracking • Supplier benchmarking • Cost savings | **📢 Marketing** Campaign ROI • Customer acquisition • Retention analysis • Attribution modeling |
-| **👔 Front Office** Guest satisfaction • Service metrics • Operational KPIs • Guest experience | **📊 Central Store** Inventory management • Stock optimization • Distribution analysis • Cost control |
-| **📚 Learning & Development** Training effectiveness • Skill gap analysis • Development tracking • Performance improvement | **📈 Executive Dashboards** KPI aggregation • Strategic reporting • Board-level insights • Decision support |
-
-</div>
+`Generative AI` `Prompt Engineering` `Claude` `ChatGPT` `Lovable` `AI-Assisted Development`
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="gear" width="28" /> Data Architecture
+## Experience
 
-<div align="center">
+### Data Analyst / Analytics Engineer — Skyla Hospitality
+Hyderabad · Jul 2025 – Present
 
-**Enterprise Data Platform**
+- Built analytics and reporting solutions using SQL, Google BigQuery, Power BI, and Looker Studio.
+- Developed ETL/ELT and reporting workflows using Google Apps Script and BigQuery.
+- Designed SQL transformations and analytical data models for business reporting.
+- Developed KPI dashboards and reporting solutions across business functions.
+- Automated recurring reporting workflows and data processes.
+- Used AI-assisted development tools to accelerate dashboard and analytics application development.
 
-```
-┌────────────────────────────────────────────────────────┐
-│             DATA SOURCES                               │
-│  PMS | F&B | Finance | HR | Engineering | CRM         │
-└────────────────┬─────────────────────────────────────┘
-                 │
-                 │ Extract & Load
-                 ▼
-┌────────────────────────────────────────────────────────┐
-│        AUTOMATION & INTEGRATION LAYER                   │
-│  Google Apps Script | Make.com | BigQuery Transfer     │
-└────────────────┬─────────────────────────────────────┘
-                 │
-                 │ Transform & Validate
-                 ▼
-┌────────────────────────────────────────────────────────┐
-│         BIGQUERY DATA WAREHOUSE                         │
-│  Staging | Fact Tables | Dimensions | Aggregations    │
-└────────────┬──────────────────────┬────────────────────┘
-             │                      │
-             │ Model               │ Serve
-             ▼                      ▼
-    ┌─────────────────┐    ┌─────────────────┐
-    │   ANALYTICS     │    │   REPORTING     │
-    │   LAYER         │    │   LAYER         │
-    │ Dimensions      │    │ Power BI        │
-    │ Metrics         │    │ Looker Studio   │
-    │ Aggregations    │    │ Google Sheets   │
-    └────────┬────────┘    └────────┬────────┘
-             │                      │
-             └──────────┬───────────┘
-                        │
-                        ▼
-        ┌──────────────────────────────┐
-        │   BUSINESS INTELLIGENCE      │
-        │   Executive Dashboards       │
-        │   Strategic Decisions        │
-        │   Performance Management     │
-        └──────────────────────────────┘
-```
+### Data Analyst Intern — Elevate Labs
+Remote · Jun 2025 – Jul 2025
 
-</div>
+- Analysed business datasets using SQL and Excel.
+- Extracted actionable insights across business use cases.
+- Recognized as Best Performer for analytical excellence and problem-solving.
+
+### Professional Training — United Way of Hyderabad
+Jan 2025 – Mar 2025
+
+`Data Analysis` `Power BI` `SQL` `Excel`
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="lightbulb" width="28" /> Current Learning & Focus
+## Education
 
-### **Advancing BI & Analytics**
-- 🔷 **Power BI Excellence** — Advanced DAX, performance optimization, enterprise governance
-- 🔷 **BigQuery Mastery** — Complex query optimization, cost efficiency, ML integration
-- 🔷 **Advanced SQL** — Window functions, recursive CTEs, performance tuning
-- 🔷 **Data Engineering Foundations** — ETL pipeline architecture, data modeling, streaming
-
-### **Emerging Technologies**
-- 🟦 **Python for Analytics** — Data science, statistical analysis, automated reporting
-- 🟦 **Machine Learning (2026+)** — Predictive analytics, demand forecasting, anomaly detection
-- 🟦 **Cloud Platforms** — Advanced BigQuery, Dataflow, Cloud SQL ecosystem
+**B.Tech — Electronics & Communication Engineering**
+Rajiv Gandhi University of Knowledge Technologies
+2021–2025 · CGPA 8.0
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="clipboard" width="28" /> GitHub Activity
+## Connect
 
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nandini-Boda.Nandini-Boda)
-
-### Recent Activity & Contributions
-
-<a href="https://github.com/Nandini-Boda">
-  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-Data%20Analytics-0A66C2?style=flat-square">
-</a>
-
-<a href="https://github.com/Nandini-Boda?tab=repositories">
-  <img alt="Repositories" src="https://img.shields.io/badge/Repositories-13%2B-10B981?style=flat-square">
-</a>
-
-<a href="https://github.com/Nandini-Boda">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Business%20Intelligence-F2C811?style=flat-square">
-</a>
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nandini-Boda&theme=dark&no-frame=true&row=1&column=3)](https://github.com/Nandini-Boda)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="phone" width="28" /> Let's Connect
-
-<div align="center">
-
-| | |
-|---|---|
-| [📧 Email](mailto:bodanandini2352@gmail.com) **bodanandini2352@gmail.com** | [💼 LinkedIn](http://linkedin.com/in/nandini-boda-24414a367) **Connect with me** |
-| [🌐 GitHub](https://github.com/Nandini-Boda) **View Repositories** | [📂 Portfolio](http://boda-nandini-portfolio.lovable.app/) **View Website** |
-| [📍 Location](https://www.google.com/maps/search/Hyderabad) **Hyderabad, India** | [🎯 Status](https://github.com/Nandini-Boda) **Open to Opportunities** |
-
-</div>
-
-<div align="center">
-
-**Actively Seeking:**  
-Senior Data Analyst | BI Developer | Analytics Engineer roles at Microsoft, Google, Amazon, Atlassian, Airbnb, Stripe, Oracle, and Hospitality Tech leaders.
-
-**Available for:** Full-time positions • Consulting projects • Speaking engagements
-
-</div>
-
----
-
-<div align="center">
-
-### **Transforming Data Into Decisions**
-
-*Building enterprise analytics solutions that create measurable business impact*
-
----
-
-<sub>Designed with attention to detail • Built for impact • Enterprise-grade analytics</sub>
-
-</div>
+Email: [bodanandini2352@gmail.com](mailto:bodanandini2352@gmail.com)
+LinkedIn: [linkedin.com/in/nandini-boda-24414a367](https://www.linkedin.com/in/nandini-boda-24414a367/)
+Portfolio: [boda-nandini-portfolio.lovable.app](https://boda-nandini-portfolio.lovable.app/)
+GitHub: [github.com/Nandini-Boda](https://github.com/Nandini-Boda)
