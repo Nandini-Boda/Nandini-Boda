@@ -48,6 +48,39 @@ Public portfolio demonstrations. They use demonstration or sanitized data and do
 
 ---
 
+## Data Automation Experience
+
+| Focus | Detail |
+| :-- | :-- |
+| **Reporting data flow** | Source systems (POS, PMS, HRMS and attendance) loaded into a BigQuery reporting warehouse |
+| **Tools** | Google Apps Script and API-based ingestion, with SQL for transformation and KPI calculation |
+| **Load approaches** | Full-refresh and incremental loading |
+| **Design example** | [Hospitality Sales & Reservation Analytics](https://github.com/Nandini-Boda/hospitality-sales-reservation-analytics): documented Apps Script, Google Sheets and Looker Studio reporting design |
+
+---
+
+## SQL and Data Analytics Projects
+
+Earlier practice projects (2025) that show SQL and analysis fundamentals.
+
+| Project | What it demonstrates |
+| :-- | :-- |
+| [SQL Orders & Customers Analysis](https://github.com/Nandini-Boda/SQL-Orders-Customers-Analysis) | Joins, aggregations with HAVING, a subquery, a window function and a view |
+| [Bank Loan Analysis](https://github.com/Nandini-Boda/BANK-LOAN-ANALYSIS) | Month-to-date vs prior-month-to-date KPI queries and a dashboard |
+| [SQL Online Sales Data](https://github.com/Nandini-Boda/SQL-ONLINE-SALES-DATA) | Monthly revenue and order analysis with date functions |
+| [HR Data Analytics](https://github.com/Nandini-Boda/HR-DATA-ANALYTICS) | HR dataset analysis and report |
+
+---
+
+## Business Impact and Practical Implementation
+
+- Reporting built for several hospitality functions, replacing manual spreadsheet reporting with warehouse-backed dashboards
+- An F&B costing, consumption and wastage application used across six properties by 30+ team members
+- A Housekeeping ERP contribution used across six properties
+- Hands-on work with business stakeholders on requirements, KPI definitions and validation
+
+---
+
 ## Skills
 
 | Category | Skills |
@@ -81,6 +114,12 @@ Recognized as a Best Performer.
 ## Career Focus
 
 Data analytics, business intelligence, SQL and data warehousing, reporting automation and business performance analysis.
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/nandini-boda-24414a367/) &nbsp;|&nbsp; [Portfolio](https://boda-nandini-portfolio.lovable.app/)
 
 ---
 
