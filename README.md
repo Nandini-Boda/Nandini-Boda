@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1F3A,100:14B8A6&text=Nandini%20Boda&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descSize=18&descAlignY=58" alt="Nandini Boda, Data Analyst, Business Intelligence" width="100%" />
 
 <a href="https://github.com/Nandini-Boda">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&height=40&lines=Turning+business+data+into+decisions;SQL+%C2%B7+Google+BigQuery+%C2%B7+Looker+Studio;KPI+design+%C2%B7+BI+dashboards+%C2%B7+reporting+automation" alt="Turning business data into decisions. SQL, Google BigQuery, Looker Studio. KPI design, BI dashboards, reporting automation." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&height=40&lines=Helped+build+an+analytics+function+from+zero;Spreadsheets+to+a+BigQuery+reporting+warehouse;Automated+ingestion+%C2%B7+KPI+design+%C2%B7+BI+dashboards" alt="Helped build an analytics function from zero. Spreadsheets to a BigQuery reporting warehouse. Automated ingestion, KPI design, BI dashboards." />
 </a>
 
 <br />
@@ -21,104 +21,167 @@
 
 ## About
 
-I work with a hospitality group's operational data and turn it into KPIs, dashboards and management reports. My day-to-day is SQL on a **Google BigQuery** reporting warehouse, **Looker Studio** and dashboard development, and **Google Apps Script** and API ingestion that keeps reports current. I started on dashboards alongside a senior colleague, then took responsibility for further reporting and automation work, and I also build internal business applications.
+I joined Skyla Hospitality as one of its first two Data Analysts, when there was no analytics function, KPI framework or structured reporting. Together with a senior colleague I helped establish it. I then took ownership of reporting across twelve departments, moved spreadsheet-based reporting onto a **BigQuery** warehouse with automated ingestion, developed database-connected dashboards, and built internal applications that improved operations across six properties.
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/SQL-0B1F3A?style=flat-square&labelColor=0B1F3A&color=14B8A6" alt="SQL" />
 <img src="https://img.shields.io/badge/Google%20BigQuery-0B1F3A?style=flat-square&logo=googlebigquery&logoColor=white&labelColor=0B1F3A&color=1D4ED8" alt="Google BigQuery" />
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-0B1F3A?style=flat-square&logo=googleappsscript&logoColor=white&labelColor=0B1F3A&color=14B8A6" alt="Google Apps Script" />
+<img src="https://img.shields.io/badge/KPI%20Reporting-0B1F3A?style=flat-square&labelColor=0B1F3A&color=1D4ED8" alt="KPI Reporting" />
 <img src="https://img.shields.io/badge/Looker%20Studio-0B1F3A?style=flat-square&logo=looker&logoColor=white&labelColor=0B1F3A&color=14B8A6" alt="Looker Studio" />
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-0B1F3A?style=flat-square&logo=googleappsscript&logoColor=white&labelColor=0B1F3A&color=1D4ED8" alt="Google Apps Script" />
-<img src="https://img.shields.io/badge/KPI%20Reporting-0B1F3A?style=flat-square&labelColor=0B1F3A&color=14B8A6" alt="KPI Reporting" />
 
 </div>
 
 ---
 
-## Skills
+## Core Skills and Tools
 
-| Area | Tools and methods | What I use them for |
+| Area | Tools and methods | Used for |
 | :-- | :-- | :-- |
 | **SQL and analytics** | SQL, joins and aggregations, subqueries, window functions, KPI calculations, data validation, trend analysis | Turning raw records into KPIs and checking that the numbers hold up |
-| **Data warehousing** | Google BigQuery, reporting data models, analytical SQL | Warehouse-backed reporting that every dashboard reads from |
-| **Business intelligence** | Looker Studio, interactive dashboards, executive reporting, performance monitoring | Giving managers one consistent view of performance |
-| **Data automation** | Google Apps Script, API integration, automated ingestion, full-refresh and incremental loading | Moving data from operational systems into the warehouse without manual work |
-| **Supporting tools** | Google Cloud Platform, GitHub, Lovable, Vercel, Excel | Hosting, version control, dashboard apps and quick analysis |
+| **Data warehousing** | Google BigQuery, reporting data models, analytical SQL | The central reporting layer behind dashboards |
+| **Data automation** | Google Apps Script, APIs, full-refresh and incremental loading | Replacing manual data handling with automated source-to-warehouse ingestion |
+| **Dashboards and BI** | Lovable and Claude (AI-assisted, database-connected dashboards), Looker Studio (earlier reporting) | Management reporting across departments |
+| **Business applications** | Claude Code, GitHub, Vercel, Progressive Web Apps | Internal tools for operational teams |
+| **Also** | Google Sheets, Excel, Google Cloud Platform | Early reporting, analysis and hosting |
 
 <sub>Currently developing: Power BI. Currently learning: Python.</sub>
 
 ---
 
-## Featured Analytics Projects
+## My Four-Stage Journey at Skyla Hospitality
 
-Public portfolio demonstrations using demonstration or sanitized data. They do not show real company performance.
+**Foundation → Ownership → Automation → Operational Transformation**
+
+<table>
+  <tr>
+    <td width="90" align="center" valign="top"><h1>01</h1><sub>Jul to Dec 2025</sub></td>
+    <td valign="top">
+      <h3>Building the analytics foundation</h3>
+      <b>Challenge:</b> no analytics function, KPI framework or structured reporting.<br />
+      <b>Contribution:</b> one of the first two Data Analysts. With my senior colleague, I helped gather business data, establish KPI frameworks and structured reporting, and build the first dashboards. I worked under their guidance and grew in KPI design and dashboard development.<br />
+      <b>Tools:</b> Google Sheets, Apps Script, Looker Studio.<br />
+      <b>Outcome:</b> four departmental dashboards, built together: <b>F&B, Sales, Engineering, Housekeeping</b>.
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center" valign="top"><h1>02</h1><sub>Dec 2025 to Apr 2026</sub></td>
+    <td valign="top">
+      <h3>Taking ownership and expanding</h3>
+      <b>Challenge:</b> my senior colleague left, and management trusted me to continue the analytics work.<br />
+      <b>Contribution:</b> trained and guided an intern, kept the first four departments running with my manager's guidance, and individually developed eight new departmental dashboards.<br />
+      <b>Tools:</b> Google Sheets, Apps Script, Looker Studio.<br />
+      <b>Outcome:</b> reporting extended to <b>HR, Finance, Branding & Marketing, Learning & Development, Attendance, Front Office, Procurement and Central Store</b>. As data grew, spreadsheets and dashboards hit performance and access limits, which led to the next stage.
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center" valign="top"><h1>03</h1><sub>Apr to Oct 2026</sub></td>
+    <td valign="top">
+      <h3>Data warehousing and automation</h3>
+      <b>Challenge:</b> spreadsheet-based reporting did not scale.<br />
+      <b>Contribution:</b> in a two-person team, I did substantial individual work to learn and set up a BigQuery reporting warehouse, then built automated source-to-warehouse ingestion with Apps Script and APIs, using full-refresh and incremental loading. I wrote SQL reporting and KPI logic and moved dashboards from Looker Studio to AI-assisted, database-connected applications built with Claude and Lovable.<br />
+      <b>Sources automated:</b> F&B POS, Sales PMS, HRMS and attendance data.<br />
+      <b>Outcome:</b> see the internally tracked figures below. Also developed F&B costing reports and an F&B application (next section).
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center" valign="top"><h1>04</h1><sub>Oct 2026 to now</sub></td>
+    <td valign="top">
+      <h3>Operational systems and process improvement</h3>
+      <b>Challenge:</b> Housekeeping tracked work in about 13 separate Google Forms, which confused staff and made data hard to manage.<br />
+      <b>Contribution:</b> developed a consolidated Housekeeping ERP, deployed across six properties.<br />
+      <b>Direction (in progress, not completed):</b> deeper business insights, automated operational alerts, market analysis and better management decision support.
+    </td>
+  </tr>
+</table>
+
+**Automation maturity (internally tracked).** Overall automation maturity moved from about 0% to 68%: Sales, F&B and Attendance from 0% to 100%, and HR to about 79%. These are my own tracking figures for how much ingestion was automated. They are not independently audited and do not measure business performance.
+
+---
+
+## Technology Evolution
+
+```mermaid
+flowchart TD
+    A["Stages 01 and 02<br/>Google Sheets · Apps Script · Looker Studio"] --> B["Stage 03<br/>Apps Script · APIs · BigQuery · SQL · Claude · Lovable"]
+    B --> C["Stage 04<br/>BigQuery reporting · AI-assisted dashboards · Claude Code · GitHub · Vercel · PWA apps"]
+```
+
+This shows how my work evolved. It does not mean every tool is used in every current workflow. Dashboards are built **with** AI assistance. They do not contain AI features.
+
+---
+
+## Business Applications and Operational Transformation
+
+Internal applications I developed for operational teams, shown here in words only. No internal screenshots or data are published.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>F&B Costing, Consumption and Wastage</h3>
+      <b>Problem:</b> kitchen teams needed a simple way to record consumption and wastage without complicated spreadsheets, and management needed better cost visibility.<br /><br />
+      <b>What I did:</b> gathered recipe and menu costing information, built costing reports with procurement, central store, F&B and management teams, and developed the application.<br /><br />
+      <b>Reach:</b> six properties, 30+ team members.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Housekeeping ERP</h3>
+      <b>Problem:</b> about 13 separate Google Forms for room cleaning, kitchen usage, extra cleaning, pest control, audits and more.<br /><br />
+      <b>What I did:</b> consolidated those workflows into one standardized system.<br /><br />
+      <b>Reach:</b> six properties. It replaces a separate paid audit tool for the relevant functionality, which helped avoid approximately ₹1.8 lakh in subscription costs. It does not replace every feature of that product.
+    </td>
+  </tr>
+</table>
+
+<sub>Both applications were built with Claude Code and deployed through GitHub and Vercel as Progressive Web Apps, installable on mobile and desktop.</sub>
+
+---
+
+## Featured Public BI Projects
+
+Public portfolio demonstrations built separately from my work applications. They use demonstration or sanitized data and do not show real company performance.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Sales & Revenue Intelligence</h3>
-      <b>Question:</b> How are properties performing commercially against target?<br /><br />
       Revenue vs target, occupancy, ADR, RevPAR, bookings and room nights, lead tracking, OTA performance and report exports.<br /><br />
       <a href="https://github.com/Nandini-Boda/Hospitality-Sales-Revenue-Intelligence-Platform">Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>Weekly Insight Hub</h3>
-      <b>Question:</b> What should management review this week?<br /><br />
-      Weekly reporting across Revenue, Brand, People, Property and an Executive Review, built on BigQuery reporting demo tables.<br /><br />
+      Weekly management reporting across Revenue, Brand, People, Property and an Executive Review, using BigQuery reporting demo tables.<br /><br />
       <a href="https://github.com/Nandini-Boda/hospitality-weekly-insight-hub">Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Brand Experience HQ</h3>
-      <b>Question:</b> What are guests saying across brands and properties?<br /><br />
-      Review volume and average rating, positive and negative reviews, sentiment trends, property comparison, recurring themes, staff recognition and review-linked action tracking. <i>Fictional demo data; no live review-platform integrations.</i><br /><br />
+      Ratings, sentiment trends, property comparison, recurring themes and review-linked action tracking. <i>Fictional demo data; no live review-platform integrations.</i><br /><br />
       <a href="https://github.com/Nandini-Boda/Brand-Experience-HQ">Repository</a> &nbsp;·&nbsp; <a href="https://stay-sentiment-compass.lovable.app/">Live demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>Workforce Attendance Intelligence</h3>
-      <b>Question:</b> How is attendance trending, and where should HR look closer?<br /><br />
-      Attendance rate, present, absent and leave analysis, department comparison, working hours, trends and employee drill-down with a monthly calendar. BigQuery data, scheduled batch sync (not real-time).<br /><br />
-      <a href="https://github.com/Nandini-Boda/Workforce-Attendance-Intelligence-Dashboard">Repository</a> &nbsp;·&nbsp; <a href="https://hr-attendance-dashboard.lovable.app">Live demo</a>
+      Attendance rate, department comparison, working hours, trends and employee drill-down. BigQuery data with scheduled batch sync, not real-time.<br /><br />
+      <a href="https://github.com/Nandini-Boda/Workforce-Attendance-Intelligence-Dashboard">Repository</a> &nbsp;·&nbsp; <a href="https://hr-attendance-dashboard.lovable.app/">Live demo</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## How My Reporting Workflow Runs
+## Data Automation Workflow
 
 ```mermaid
 flowchart LR
     A["Operational sources<br/>POS · PMS · HRMS · Attendance"] --> B["Ingestion<br/>Apps Script · APIs"]
     B --> C[("BigQuery<br/>reporting warehouse")]
     C --> D["SQL and KPI<br/>calculations"]
-    D --> E["BI dashboards<br/>Looker Studio · apps"]
+    D --> E["Dashboards<br/>database-connected apps"]
     E --> F["Management reporting<br/>and insights"]
 ```
 
-Data is loaded by **full refresh** or **incremental loading**, depending on the source. No company infrastructure details are published here.
-
----
-
-## Experience
-
-**Data Analyst, Skyla Hospitality** &nbsp;|&nbsp; July 2025 to present
-
-Reporting across Sales, F&B, Engineering, Housekeeping, HR, Finance, Branding, Attendance, Front Office, Procurement, Central Store and Learning & Development.
-
-- Dashboard development and management reporting, starting with a senior colleague and then taking on further reporting and automation
-- SQL-based reporting on BigQuery, KPI design, data validation and cross-functional requirements
-- Source-to-warehouse ingestion automation with Apps Script and APIs
-- Helped train an intern
-
-**Internal business applications**
-
-- **F&B Costing, Consumption and Wastage:** used across six properties by 30+ team members
-- **Housekeeping ERP:** contributed to an internal application used across six properties
-
-**Data Analyst Intern, Elevate Labs** &nbsp;|&nbsp; June 2025 to July 2025
-Best Performer recognition.
+Loading uses **full refresh** or **incremental loading**, depending on the source, and runs as batch updates, not real-time streaming.
 
 ---
 
@@ -136,25 +199,19 @@ Older practice projects, kept as supporting work.
 
 ## Education and Training
 
+**Data Analyst Intern, Elevate Labs** (June to July 2025): Best Performer recognition.
+
 - **B.Tech, Electronics and Communication Engineering**, RGUKT Basara, 2021 to 2025 (CGPA 8.0)
 - **Data Analysis, Power BI, SQL and Excel**, United Way Hyderabad, 2025
 - **Microsoft Techsaksham**, 2024
 
 ---
 
-<!--
-  OPTIONAL: GitHub stats card. Left out on purpose, because activity stats are not a professional achievement
-  and the card depends on a third-party service that is sometimes unavailable.
-  To add it, remove these comment markers:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandini-Boda&show_icons=false&hide_border=true&bg_color=0B1F3A&title_color=14B8A6&text_color=FFFFFF" alt="GitHub stats" />
-</div>
--->
-
 <div align="center">
 
-*"Without data, you're just another person with an opinion." (W. Edwards Deming, attributed)*
+<img src="https://github-readme-stats.vercel.app/api?username=Nandini-Boda&show_icons=false&hide_border=true&bg_color=0B1F3A&title_color=14B8A6&text_color=FFFFFF&text_bold=false" alt="GitHub activity summary" />
+
+<br /><br />
 
 **Open to Data Analyst and BI Analyst roles** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nandini-boda-24414a367/) &nbsp;·&nbsp; [Portfolio](https://boda-nandini-portfolio.lovable.app/)
 
