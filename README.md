@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1F3A,100:14B8A6&text=Nandini%20Boda&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20%26%20Data%20Automation&descSize=18&descAlignY=58&animation=fadeIn" alt="Nandini Boda, Data Analyst, BI and Data Automation" width="100%" />
+<img src="banner.svg" alt="Nandini Boda, Data Analyst, BI and Data Automation" width="100%" />
 
 <a href="https://github.com/Nandini-Boda">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1200&color=14B8A6&center=true&vCenter=true&width=760&height=40&lines=From+Fragmented+Data+to+Actionable+Insights;Data+Analyst+%C2%B7+BI+%C2%B7+Data+Automation+%C2%B7+Data+Warehousing;Building+the+bridge+between+operational+data+and+business+intelligence" alt="From Fragmented Data to Actionable Insights. Data Analyst, BI, Data Automation, Data Warehousing." />
@@ -203,14 +203,8 @@ Public portfolio demonstrations, separate from the internal applications above. 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nandini-Boda&show_icons=false&hide_border=true&bg_color=0B1F3A&title_color=14B8A6&text_color=FFFFFF" alt="GitHub activity summary" />
-
-<br /><br />
-
 *Building the bridge between operational data, automated systems and business intelligence.*
 
 **Open to Data Analyst and BI Analyst roles** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nandini-boda-24414a367/) &nbsp;·&nbsp; [Portfolio](https://boda-nandini-portfolio.lovable.app/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:14B8A6,100:0B1F3A&section=footer" alt="" width="100%" />
 
 </div>
